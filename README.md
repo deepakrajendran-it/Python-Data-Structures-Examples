@@ -1,0 +1,1 @@
+A collection of practical Python examples demonstrating the use of fundamental data structures, including Lists, Tuples, Sets, and Dictionaries. Each example is based on real-world scenarios to help understand how these data structures are used in practical applications.
